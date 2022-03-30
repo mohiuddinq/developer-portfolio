@@ -20,11 +20,11 @@ h2 {
 }
 .link-button {
   text-decoration: none;
-  background-color: orange;
+  background-image: linear-gradient(rgb(240, 18, 18), rgb(241, 228, 40));
   color: white;
   font-weight: 700;
   padding: 10px 40px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .top-banner {
   background-image: url(images/top-banner.png);
