@@ -18,6 +18,11 @@ h2 {
 .half-width img {
   width: 80%;
 }
+.round {
+  border: 7px solid salmon;
+  border-style: outset;
+  border-radius: 50%;
+}
 .link-button {
   text-decoration: none;
   background-image: linear-gradient(rgb(240, 18, 18), rgb(241, 228, 40));
